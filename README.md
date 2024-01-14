@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @grzegorz-gomza
 - 👀 I’m interested in Data Science and Python 
 - 🌱 I’m currently learning Data Science with infoShareAcademy.com
+- 🌱 and with Code Academy www.codeacademy.com
 
 <!---
 grzegorz-gomza/grzegorz-gomza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
