@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grzegorz-gomza
 - 👀 I’m interested in Data Science and Python 
-- 🌱 I’m currently learning Data Science with infoShareAcademy.com
+- 🌱 I’m currently learning Data Science with www.infoShareAcademy.com
 - 🌱 and with Code Academy www.codeacademy.com
 
 <!---
