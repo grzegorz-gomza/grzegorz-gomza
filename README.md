@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, LLM and Python 
 - 🎓 I ended a Bootcamp at www.infoShareAcademy.com
 - 🌱 and I'm still learning with Code Academy www.codeacademy.com
-   💞️ I’m looking forward to learn and create more awesome LLM apps
+- 💞️ I’m looking forward to learn and create more awesome LLM apps
 
 ###
 <picture>
