@@ -4,11 +4,14 @@
 
 🎓 Master's in Civil Engineering | 🎓 BootCamps & Courses in Machine and Deep Learning
 
-🏆 Created several Chatbot's with Langchain and Streamlit
+🏆 Created several Chatbot's with Langchain and Streamlit: <a href="https://gg-netflix-recommender.streamlit.app/">Netflix Recommendation Chatbot</a> , <a href="https://gg-langgraphagent.streamlit.app/">PDF & Websearch powered Chatbot using RAG</a>
 
-🔍 Passionate about Machine Learning, Python, and Gen AI 
+🔍 Passionate about Machine Learning, Python, and Gen AI: Check out in couple of days my Chest Cancer Classifier, which is still in developement.
 
 🤝 Let's meet up and collaborate together! Connect with me on <a href="https://www.linkedin.com/in/gregory-gomza/">LinkedIN.<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" width="20" height="20"></a>&nbsp;
+
+🪪 Check out my website with Portfolio Projects and more: <a href="https://grzegorz-gomza.github.io/website-resume/"> Website </a>
+<a href=""></a>
 
 --- 
 
