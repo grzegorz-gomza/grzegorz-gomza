@@ -13,6 +13,44 @@
 🪪 Check out my website with Portfolio Projects and more: <a href="https://grzegorz-gomza.github.io/website-resume/"> Website </a>
 <a href=""></a>
 
+---
+### My Projects: 💻
+
+* <a href="https://github.com/grzegorz-gomza/Recommender_System_with_Neo4j"> Recommender Chat bot for Netflix Films and Series </a> - This project provides an interactive movie recommendation experience powered by a conversational AI agent. It leverages the capabilities of Neo4j (a graph database), Langchain (a framework for building LLM applications), and Streamlit (for creating the user interface).
+
+    <a href="https://gg-netflix-recommender.streamlit.app/">Deployed APP</a>
+
+* <a href="https://github.com/grzegorz-gomza/Langgraph_Agent"> Custom AI Agentic Chatbot with RAG and Websearch </a> - The main goal of the project was to combine two concepts: a LangGraph Agent with access to the web and a Multimodal RAG Agent capable of reading PDF files, including graphics and tables. The entire project was wrapped in a frontend using Streamlit and deployed. The Agent can provide answers to given questions using the LLM itself, internet research, and a deep understanding of the provided PDF file.
+
+    <a href="https://gg-langgraphagent.streamlit.app/">Deployed APP</a>
+    
+* <a href="https://github.com/grzegorz-gomza/Chat_with_PDF"> RAG Chatbot </a> - This project implements a Streamlit application that allows users to chat with multiple PDF documents. It extracts text from uploaded PDFs, processes the text into chunks, and uses OpenAI's model to provide conversational responses based on the document content.
+* <a href="https://github.com/grzegorz-gomza/Chest_Cancer_Classification_MLOps.git"> Chest Cancer Detector </a> - The Chest Cancer Assistant is a sophisticated medical diagnostic tool that leverages artificial intelligence to analyze CT scans of lungs for cancer detection. Built using modern MLOps practices and deep learning techniques, this system employs a fine-tuned CNN architecture to accurately identify and classify three primary types of lung cancer from medical imaging data. This technology aims to assist healthcare professionals by providing an efficient preliminary screening tool for lung cancer diagnosis.
+
+    <a href="http://56.228.36.7:1988/">Deployed APP</a>
+    
+* <a href="https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Lego%20recognition"> Lego Brick Classification Project </a> - This project focuses on building a convolutional neural network (CNN) model capable of recognizing individual LEGO bricks from images. Leveraging deep learning techniques, specifically CNNs, the model classifies LEGO bricks into different categories. The project was undertaken as part of a Data Science bootcamp and aims to contribute to applications that require LEGO brick recognition.
+* <a href="https://github.com/grzegorz-gomza/E-mail_Spam_Detection"> E-Mail Spam Detector </a> - NLP machine learning project that detects whether an e-mail is spam. Used Scikit-learn for model development, FastAPI for the backend, Streamlit for the frontend, and Airflow with DAGs for orchestration and automation. The app was containerized using Docker.
+* <a href="https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Concrete%20Punching"> Punching Shear Resistance Prediction </a> - The Punching Shear Resistance Prediction project is designed to leverage machine learning in predicting the punching shear resistance (Pu) for concrete slab-column connections. By analyzing various geometric and material properties, this project provides engineers with a reliable tool to assess structural integrity and prevent potential failures. The machine learning model uses different geometric and material characteristics to enhance the evaluation of structural integrity and help mitigate possible issues.
+* <a href="https://github.com/grzegorz-gomza/Tic_Tac_Toe_C--"> Tic Tac Toe game in C++ </a> - The Tic-Tac-Toe game, available as a C++ implementation, allows two players to compete on a customizable board ranging from 3x3 to 10x10. It features dynamic board sizes, automatic winner detection, draw conditions, and input validation to ensure valid moves while displaying the board clearly after each turn. The game includes functions for board initialization, winner checking, draw detection, and player input, all designed to create an engaging and user-friendly experience for players.
+
+
+#### CodeCademy Projects:
+* [Codecademy_A_B Testing for ShoeFly.com](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_A_B%20Testing%20for%20ShoeFly) - A/B Testing analysis project for ShoeFly.com, focused on testing different variables to optimize website performance and user engagement.  
+* [Codecademy_Airline Analysis](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Airline%20Analysis) - Data analysis project centered on airline industry data to uncover trends and insights.  
+* [Codecademy_Biodiversity](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Biodiversity) - Completed project analyzing biodiversity data to assess species variety and environmental factors.  
+* [Codecademy_Cleaning US Census Data](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Cleaning%20US%20Census%20Data) - Data cleaning project dealing with US Census datasets to prepare for further analysis.  
+* [Codecademy_Exploring Mushrooms](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Exploring%20Mushrooms) - Exploratory data analysis project focused on mushroom characteristics and classifications.  
+* [Codecademy_Hurricane_Analysis](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Hurricane_Analysis) - Analysis of hurricane data to understand patterns and impacts.  
+* [Codecademy_Life-Expectancy-and-GDP-Starter](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Life-Expectancy-and-GDP-Starter) - Project analyzing the relationship between life expectancy and GDP across countries.  
+* [Codecademy_Medical Insurance](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Medical%20Insurance) - Data project exploring medical insurance data for insights into costs and coverage.  
+* [Codecademy_NBA_Trends_Project](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_NBA_Trends_Project) - Analysis of NBA data to identify trends in player and game statistics.  
+* [Codecademy_Product Defects](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Product%20Defects) - Project analyzing product defect data to improve quality control processes.  
+* [Codecademy_PySpark_Training](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_PySpark_Training) - Training and projects using PySpark to handle large-scale data processing.  
+* [Codecademy_Reggie's Linear Regression](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Reggie's%20Linear%20Regression) - Linear regression modeling project to understand relationships in datasets.  
+* [Customer Behaviour on Website](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Customer%20Behaviour%20on%20Website) - Analysis of customer behavior to optimize the website experience.  
+* [Z_Code from daily Training sessions](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Z_Code%20from%20daily%20Training%20sessions) - Daily training sessions focusing on PySpark and other coding exercises.
+
 --- 
 
 ### :hammer_and_wrench: Languages and Tools
