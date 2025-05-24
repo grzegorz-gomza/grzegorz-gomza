@@ -1,8 +1,8 @@
 ### Hello there 👋 
 
-🤖 Machine Learning Engineer | :zap: AI Enthusiast | :house: Civil Engineer
+🔄 Full Stack Developer | 🤖 Machine Learning Engineer | :zap: AI Enthusiast | :house: Civil Engineer
 
-🎓 Master's in Civil Engineering | 🎓 BootCamps & Courses in Machine and Deep Learning
+🎓 Master's in Civil Engineering | 🎓 BootCamps & Courses in Machine and Deep Learning & Full Stack Software Developement
 
 🏆 Created several Chatbot's with Langchain and Streamlit: <a href="https://gg-netflix-recommender.streamlit.app/">Netflix Recommendation Chatbot</a> , <a href="https://gg-langgraphagent.streamlit.app/">PDF & Websearch powered Chatbot using RAG</a>
 
@@ -56,11 +56,17 @@
 ### :hammer_and_wrench: Languages and Tools
 As a machine-learning engineer, I'm quite proficient with these tools and frameworks:
 
+#### Programming Languages
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+
 #### Main Skills & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-plain.svg" title="PostgresSQL" alt="PostgresSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/fff0c8a2-efd7-4187-8c7c-91eb9f9c4355" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/1df6f114-3051-40e0-a401-5ae043e7ac31" title="Numpy" alt="Numpy" width=40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
@@ -71,33 +77,48 @@ As a machine-learning engineer, I'm quite proficient with these tools and framew
 
 ---
 
-#### Machine Learning
+#### AI Skills
 <div>
-  <img src="https://github.com/user-attachments/assets/ac2249b8-13df-442c-80e9-13dbdb21a545" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQb_6N-2J8mVZhy0b5Hwr1qVS7g0jU115ow&s" title="XGBoost" alt="XGBoost" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/b0a4b665-c090-4d85-b7d8-d9786d4d308e" title="Rapids" alt="Rapids" height="40"/>&nbsp;
-
+    <table>
+        <tr>
+            <th colspan="3"> Machine Learning</th>
+            <th colspan="3"> Deep Learning </th>
+            <th colspan="5"> Gen AI </th>
+        </tr>
+        <tr>
+          <td><img src="https://github.com/user-attachments/assets/ac2249b8-13df-442c-80e9-13dbdb21a545" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;</td>
+          <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQb_6N-2J8mVZhy0b5Hwr1qVS7g0jU115ow&s" title="XGBoost" alt="XGBoost" width="40" height="40"/>&nbsp;</td>
+          <td><img src="https://github.com/user-attachments/assets/b0a4b665-c090-4d85-b7d8-d9786d4d308e" title="Rapids" alt="Rapids" height="40"/>&nbsp;</td>
+          <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;</td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;</td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;</td>
+          <td><img src="https://github.com/user-attachments/assets/e3f1b30c-d508-4b5d-81a5-4973d16cf1d1" title="LangChain" alt="LangChain" height="40"/>&nbsp;</td>
+          <td><img src="https://github.com/user-attachments/assets/64c308b5-2f49-4ee0-aff9-32db36fc91eb" title="LangGraph" alt="LangGraph" height="40"/>&nbsp;</td>
+          <td><img src="https://github.com/user-attachments/assets/80233f20-c06a-4443-a83e-7d80401cd414"  title="CrewAI" alt="CrewAI" height="40"/>&nbsp;</td>
+          <td><img src="https://github.com/user-attachments/assets/d2d7aa1c-5192-40f5-8311-1e8b6f5205a1" title="OpenAI" alt="OpenAI" height="40"/>&nbsp;</td>
+          <td><img src="https://github.com/user-attachments/assets/5f2afb0f-47d4-414d-b571-b403b0611ebd" title="Hugginface" alt="Huggingface" height="40"/>&nbsp;</td>
+        </tr>
+    </table>
 </div>
 
 ---
 
-#### Deep Learning
+#### Front-End Developement
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/dcbc504c-722a-4fdc-aafe-704f144596a5" title="Streamlit" alt="Streamlit" height="40"/>&nbsp;
 </div>
 
 ---
 
-#### Gen AI
-<div>
-  <img src="https://github.com/user-attachments/assets/e3f1b30c-d508-4b5d-81a5-4973d16cf1d1" title="LangChain" alt="LangChain" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/64c308b5-2f49-4ee0-aff9-32db36fc91eb" title="LangGraph" alt="LangGraph" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/d2d7aa1c-5192-40f5-8311-1e8b6f5205a1" title="OpenAI" alt="OpenAI" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/5f2afb0f-47d4-414d-b571-b403b0611ebd" title="Hugginface" alt="Huggingface" height="40"/>&nbsp;
+#### Back-End & API Developement
+<img src="https://github.com/user-attachments/assets/c148999a-4e6f-423b-8389-2c1e18308bff" title="Flask" alt="Flask" height="40"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/99f07b07-93cf-456a-b295-7cf4108c031d" title="nodejs" alt="nodejs" height="40"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/64c60990-c4f7-407b-b49c-50c0a87891c8" title="express" alt="express" height="40"/>&nbsp;
 
-</div>
 
 ---
 
@@ -108,16 +129,6 @@ As a machine-learning engineer, I'm quite proficient with these tools and framew
   <img src="https://github.com/user-attachments/assets/e1cc1c77-637e-4342-8ca4-63aae4bef9ac" title="MongoDB" alt="MongoDB" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/9038d970-f6c5-496e-87fe-9093dd706629" title="PySpark" alt="PySpark" height="40"/>&nbsp;
 
-</div>
-
----
-
-#### Front-End Developement
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/dcbc504c-722a-4fdc-aafe-704f144596a5" title="Streamlit" alt="Streamlit" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/c148999a-4e6f-423b-8389-2c1e18308bff" title="Flask" alt="Flask" height="40"/>&nbsp;
 </div>
 
 ---
