@@ -18,16 +18,18 @@
 
 * <a href="https://github.com/grzegorz-gomza/Recommender_System_with_Neo4j"> Recommender Chat bot for Netflix Films and Series </a> - This project provides an interactive movie recommendation experience powered by a conversational AI agent. It leverages the capabilities of Neo4j (a graph database), Langchain (a framework for building LLM applications), and Streamlit (for creating the user interface).
 
-    <a href="https://gg-netflix-recommender.streamlit.app/">Deployed APP</a>
+    <a href="https://youtu.be/HAIaNS-dj-E">YouTube Presentation</a>
+    <a href="https://medium.com/@gomza.datascience/building-an-ai-agent-for-movie-recommendations-with-neo4j-and-langchain-part-1-a5ffa101cf1d">Article about app on Medium</a>
 
 * <a href="https://github.com/grzegorz-gomza/Langgraph_Agent"> Custom AI Agentic Chatbot with RAG and Websearch </a> - The main goal of the project was to combine two concepts: a LangGraph Agent with access to the web and a Multimodal RAG Agent capable of reading PDF files, including graphics and tables. The entire project was wrapped in a frontend using Streamlit and deployed. The Agent can provide answers to given questions using the LLM itself, internet research, and a deep understanding of the provided PDF file.
 
-    <a href="https://gg-langgraphagent.streamlit.app/">Deployed APP</a>
+    <a href="https://youtu.be/DuAuMw9S9J0">YouTube Presentation</a>
     
 * <a href="https://github.com/grzegorz-gomza/Chat_with_PDF"> RAG Chatbot </a> - This project implements a Streamlit application that allows users to chat with multiple PDF documents. It extracts text from uploaded PDFs, processes the text into chunks, and uses OpenAI's model to provide conversational responses based on the document content.
 * <a href="https://github.com/grzegorz-gomza/Chest_Cancer_Classification_MLOps.git"> Chest Cancer Detector </a> - The Chest Cancer Assistant is a sophisticated medical diagnostic tool that leverages artificial intelligence to analyze CT scans of lungs for cancer detection. Built using modern MLOps practices and deep learning techniques, this system employs a fine-tuned CNN architecture to accurately identify and classify three primary types of lung cancer from medical imaging data. This technology aims to assist healthcare professionals by providing an efficient preliminary screening tool for lung cancer diagnosis.
 
     <a href="http://56.228.36.7:1988/">Deployed APP</a>
+    <a href="https://youtu.be/TW8r8h0-0PY">YouTube Presentation</a>
     
 * <a href="https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Lego%20recognition"> Lego Brick Classification Project </a> - This project focuses on building a convolutional neural network (CNN) model capable of recognizing individual LEGO bricks from images. Leveraging deep learning techniques, specifically CNNs, the model classifies LEGO bricks into different categories. The project was undertaken as part of a Data Science bootcamp and aims to contribute to applications that require LEGO brick recognition.
 * <a href="https://github.com/grzegorz-gomza/E-mail_Spam_Detection"> E-Mail Spam Detector </a> - NLP machine learning project that detects whether an e-mail is spam. Used Scikit-learn for model development, FastAPI for the backend, Streamlit for the frontend, and Airflow with DAGs for orchestration and automation. The app was containerized using Docker.
