@@ -8,7 +8,7 @@
 ## 🤖 AI & Machine Learning
 
 ### Recommender Chatbot for Netflix (Neo4j + LangChain + Streamlit)
-**[GitHub Repo](https://github.com/grzegorz-gomza/Recommender_System_with_Neo4j)** &nbsp;|&nbsp; **[🌐 Live App](https://gg-netflix-recommender.streamlit.app/)** &nbsp;|&nbsp; **[▶ YouTube](https://youtu.be/HAIaNS-dj-E)**
+**[GitHub Repo](https://github.com/grzegorz-gomza/Recommender_System_with_Neo4j)** &nbsp;|&nbsp; **[▶ YouTube](https://youtu.be/HAIaNS-dj-E)**
 
 Conversational movie recommender powered by a LangChain agent with four specialised tools: relationship-based, preference-based, and description-similarity recommendations via Neo4j graph queries, plus a general movie chatbot. The LLM generates Cypher queries from natural language and returns context-aware suggestions.
 
@@ -17,7 +17,7 @@ Conversational movie recommender powered by a LangChain agent with four speciali
 ---
 
 ### Custom AI Agentic Chatbot with RAG & Websearch (LangGraph + Streamlit)
-**[GitHub Repo](https://github.com/grzegorz-gomza/Langgraph_Agent)** &nbsp;|&nbsp; **[🌐 Live App](https://gg-langgraphagent.streamlit.app/)** &nbsp;|&nbsp; **[▶ YouTube](https://youtu.be/DuAuMw9S9J0)**
+**[GitHub Repo](https://github.com/grzegorz-gomza/Langgraph_Agent)** &nbsp;|&nbsp; **[▶ YouTube](https://youtu.be/DuAuMw9S9J0)**
 
 Combines a LangGraph agent with live web search and a multimodal RAG pipeline capable of reading PDFs — including tables and embedded graphics. Answers questions using the LLM itself, internet research, or deep document understanding.
 
@@ -35,9 +35,9 @@ MLOps-style image classification system for chest CT scans using a fine-tuned VG
 ---
 
 ### Waste Classifier — 30 Classes (ResNet50 / MobileNetV2 / EfficientNet-B0 + XGBoost)
-**[GitHub Repo](https://github.com/grzegorz-gomza/Waste_Classifier)**
+**[GitHub Repo](https://github.com/grzegorz-gomza/waste-classifier)**
 
-Transfer learning system classifying **30 types of waste** from 15,000 images. Compares three CNN architectures × three classification head complexities (9 CNN configurations), plus two XGBoost baseline models — **11 models total**. Best result: **92.70% accuracy** (ResNet50 + semi-complex head).
+Transfer learning system classifying **30 types of waste** from 15,000 images. Compares three CNN architectures × three classification head complexities (9 CNN configurations), plus two XGBoost baseline models — **11 models total**. 
 
 Interactive frontend with two views:
 - **Prediction page** — run inference on sample or custom uploaded images, showing predictions across all 5 selected models
@@ -50,7 +50,7 @@ Interactive frontend with two views:
 ### RAG Chatbot over PDFs (OpenAI + Streamlit)
 **[GitHub Repo](https://github.com/grzegorz-gomza/Chat_with_PDF)**
 
-Streamlit app that lets users chat with multiple uploaded PDF documents. Text is extracted, chunked, and indexed; OpenAI provides conversational responses grounded in the document content.
+Streamlit app that lets users chat with multiple uploaded PDF documents. Text is extracted, chunked, and indexed; OpenAI provides conveWrsational responses grounded in the document content.
 
 **Stack:** Python · OpenAI · LangChain · Streamlit
 
@@ -84,11 +84,9 @@ CNN model classifying individual LEGO bricks from images. Built during a Data Sc
 ## 🌐 Web Development
 
 ### mAIniac — AI & IT Social Media Website
-**[Live URL](https://mayar.abertay.ac.uk/~2511872/)**
+**[GitHub Repo](https://github.com/grzegorz-gomza/mainiac-web-dev)**
 
-> *Note: Hosted on a university server — may be offline outside term time.*
-
-Full-stack social media platform for AI and tech news. Built for the **HEP504 Web Development** module at Abertay University (M.Sc. Computer Science with AI).
+Full-stack social media platform for AI and tech news.
 
 **Key features:**
 - Two-tier user authentication (Level 1: Admin, Level 2: User)

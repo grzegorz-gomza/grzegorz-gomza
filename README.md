@@ -1,9 +1,9 @@
-###wello there 👋
+### Hello there 👋
 
 🎯 **AI / ML Engineer | LLM & RAG | MLOps | ex‑Civil Engineer (10+ yrs)**
 
 - 🎓 M.Sc. Computer Science with AI — Abertay University *(in progress, finished by 09-2026)*
-- 🧠 Python · Gen AI (LangChain / LangGraph / RAG) · Deep Learning (PyTorch / TensorFlow) · Classical ML (scikit‑learn / XGBoost) · 
+- 🧠 Python · Gen AI (LangChain / LangGraph / RAG) · Deep Learning (PyTorch / TensorFlow) · Classical ML (scikit‑learn / XGBoost)
 - 🗄️ Neo4j · MongoDB · SQL — building end‑to‑end ML & AI applications
 - 🏗️ 10+ years in Civil Engineering — domain knowledge in structural analysis, project management and team leading
 
@@ -27,10 +27,9 @@ For more detailed information about my background, you can explore:
 
 #### 🤖 AI & Machine Learning
 
-* <a href="https://github.com/grzegorz-gomza/Waste_Classifier">**Waste Classifier - Image classification**</a><br>
+* <a href="https://github.com/grzegorz-gomza/waste-classifier">**Waste Classifier - Image classification**</a><br>
 ⚙️ *Tech Stack: Python | PyTorch | XGBoost | Scikit-learn Image | FastAPI | MLFlow | DVC | JavaScript | React | Docker* <br>
-  Transfer learning system classifying 30 types of waste from 15,000 images. Compares three CNN architectures (ResNet50, MobileNetV2, EfficientNet-B0) with three classification head complexities (simple, semi-complex, complex), plus two XGBoost baseline models. Interactive frontend to run predictions on sample or custom images, and a metrics dashboard showing training/evaluation results per model. Best result: **92.70% accuracy** (ResNet50 + semi-complex head). Built with PyTorch, config-driven pipeline, modular MLOps architecture.
-  *[Add repo link here]*
+  <p>Transfer learning system classifying 30 types of waste from 15,000 images. Compares three CNN architectures (ResNet50, MobileNetV2, EfficientNet-B0) with three classification head complexities (simple, semi-complex, complex), plus two XGBoost baseline models. Interactive frontend to run predictions on sample or custom images, and a metrics dashboard showing training/evaluation results per model. Built with PyTorch, config-driven pipeline, modular MLOps architecture.</p>
 
 * <a href="https://github.com/grzegorz-gomza/Recommender_System_with_Neo4j">**Recommender Chatbot for Netflix**</a><br>
 ⚙️ *Tech Stack: Python | LangChain | Neo4j | Streamlit*<br>
@@ -44,33 +43,33 @@ For more detailed information about my background, you can explore:
 
 * <a href="https://github.com/grzegorz-gomza/Chest_Cancer_Classification_MLOps">**Chest Cancer Classifier (MLOps Pipeline)**</a><br>
 ⚙️ *Tech Stack: Python | Tensorflow | MLFlow | DVC | Flask | Docker | AWS*<br>
-  MLOps-style image classification system for chest CT scans using a fine-tuned VGG16 CNN with custom classification head. Full pipeline: config-driven training, DVC data versioning, MLflow experiment tracking, Docker containerisation and AWS deployment via GitHub Actions CI/CD. Classifies three types of lung cancer: Adenocarcinoma, Large Cell Carcinoma, and Squamous Cell Carcinoma.
+  <p>MLOps-style image classification system for chest CT scans using a fine-tuned VGG16 CNN with custom classification head. Full pipeline: config-driven training, DVC data versioning, MLflow experiment tracking, Docker containerisation and AWS deployment via GitHub Actions CI/CD. Classifies three types of lung cancer: Adenocarcinoma, Large Cell Carcinoma, and Squamous Cell Carcinoma.</p>
   <a href="https://youtu.be/TW8r8h0-0PY">▶ YouTube Video</a>
 
 
 * <a href="https://github.com/grzegorz-gomza/Chat_with_PDF">**RAG Chatbot over PDFs**</a><br>
 ⚙️ *Tech Stack: Python | OpenAI | Streamlit*<br>
-  Streamlit app that lets users chat with multiple uploaded PDF documents. Text is extracted, chunked, and indexed; OpenAI provides conversational responses grounded in the document content.
+  <p>Streamlit app that lets users chat with multiple uploaded PDF documents. Text is extracted, chunked, and indexed; OpenAI provides conversational responses grounded in the document content.</p>
 
 * <a href="https://github.com/grzegorz-gomza/E-mail_Spam_Detection">**E-Mail Spam Detector (NLP + FastAPI + Airflow + Docker)**</a><br>
 ⚙️ *Tech Stack: Python | Scikit-learn | NLP | FastAPI | Airflow | Docker*<br>
-  End-to-end NLP pipeline detecting spam emails. scikit-learn model, FastAPI backend, Streamlit frontend, Airflow DAGs for orchestration, fully containerised with Docker.
+  <p>End-to-end NLP pipeline detecting spam emails. scikit-learn model, FastAPI backend, Streamlit frontend, Airflow DAGs for orchestration, fully containerised with Docker.</p>
 
 * <a href="https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Concrete%20Punching">**Punching Shear Resistance Prediction (Structural ML)**</a><br>
 ⚙️ *Tech Stack: Python | Scikit-learn*<br>
-  Machine learning model predicting punching shear resistance (Pu) for concrete slab-column connections from geometric and material properties. Domain knowledge from 10+ years of civil engineering applied to supervised ML — bridges the gap between engineering and AI.
+  <p>Machine learning model predicting punching shear resistance (Pu) for concrete slab-column connections from geometric and material properties. Domain knowledge from 10+ years of civil engineering applied to supervised ML — bridges the gap between engineering and AI.</p>
 
 * <a href="https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Lego%20recognition">**Lego Brick Classifier (CNN)**</a><br>
 ⚙️ *Tech Stack: Python | Tensorflow | GradCam* <br>
-  CNN model classifying individual LEGO bricks from images using deep learning. Built during a Data Science bootcamp.
+  <p>CNN model classifying individual LEGO bricks from images using deep learning. Built during a Data Science bootcamp.</p>
 
 ---
 
 #### 🌐 Web Development
 
-* <a href="https://mayar.abertay.ac.uk/~2511872/">**mAIniac — AI & IT Social Media Website (PHP + MySQL + Bootstrap 5)**</a><br>
+* <a href="https://github.com/grzegorz-gomza/mainiac-web-dev">**mAIniac — AI & IT Social Media Website (PHP + MySQL + Bootstrap 5)**</a><br>
 ⚙️ *Tech Stack: HTML | CSS | PHP | JavaScript | MySQL | Bootstrap 5*<br>
-  Full-stack social media platform for AI and tech news, developed during studies at Abertay University. Features user authentication with two permission levels (admin / user), article and comment CRUD with rich-text editor, image management, real-time likes (JavaScript), category-based browsing, user search, and full responsive design with Bootstrap 5. Implements MVC-style architecture, prepared statements against SQL injection, bcrypt password hashing, session management, and WCAG 2.1 AA accessibility compliance.
+  <p>Full-stack social media platform for AI and tech news, developed during studies at Abertay University. Features user authentication with two permission levels (admin / user), article and comment CRUD with rich-text editor, image management, real-time likes (JavaScript), category-based browsing, user search, and full responsive design with Bootstrap 5. Implements MVC-style architecture, prepared statements against SQL injection, bcrypt password hashing, session management, and WCAG 2.1 AA accessibility compliance.</p>
 
 
 ---
@@ -78,7 +77,7 @@ For more detailed information about my background, you can explore:
 #### 🎮 Other
 
 * <a href="https://github.com/grzegorz-gomza/Tic_Tac_Toe_C--">**Tic Tac Toe in C++ (3×3 to 10×10)**</a>
-  C++ implementation with dynamic board sizes, automatic winner detection, draw detection, and input validation.
+  <p>C++ implementation with dynamic board sizes, automatic winner detection, draw detection, and input validation.</p>
 
 ---
 
