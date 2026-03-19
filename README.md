@@ -1,141 +1,194 @@
-### Hello there 👋 
+###wello there 👋
 
-🔄 Full Stack Developer | 🤖 Machine Learning Engineer | :zap: AI Enthusiast | :house: Civil Engineer
+🎯 **AI / ML Engineer | LLM & RAG | MLOps | ex‑Civil Engineer (10+ yrs)**
 
-🎓 Master's in Civil Engineering | 🎓 BootCamps & Courses in Machine and Deep Learning & Full Stack Software Developement
+- 🎓 M.Sc. Computer Science with AI — Abertay University *(in progress, finished by 09-2026)*
+- 🧠 Python · Gen AI (LangChain / LangGraph / RAG) · Deep Learning (PyTorch / TensorFlow) · Classical ML (scikit‑learn / XGBoost) · 
+- 🗄️ Neo4j · MongoDB · SQL — building end‑to‑end ML & AI applications
+- 🏗️ 10+ years in Civil Engineering — domain knowledge in structural analysis, project management and team leading
 
-🏆 Created several Chatbot's with Langchain and Streamlit: <a href="https://gg-netflix-recommender.streamlit.app/">Netflix Recommendation Chatbot</a> , <a href="https://gg-langgraphagent.streamlit.app/">PDF & Websearch powered Chatbot using RAG</a>
-
-🔍 Passionate about Machine Learning, Python, and Gen AI: Check out in couple of days my Chest Cancer Classifier, which is still in developement.
-
-🤝 Let's meet up and collaborate together! Connect with me on <a href="https://www.linkedin.com/in/gregory-gomza/">LinkedIN.<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" width="20" height="20"></a>&nbsp;
-
-🪪 Check out my website with Portfolio Projects and more: <a href="https://grzegorz-gomza.github.io/website-resume/"> Website </a>
-<a href=""></a>
+🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/gregory-gomza/">gregory-gomza</a> &nbsp;|&nbsp;
+🔗 **Medium:** <a href="https://medium.com/@gomza.datascience">@gomza.datascience</a>
 
 ---
-### My Projects: 💻
+### Detailed Portfolio & Additional Information
 
-* <a href="https://github.com/grzegorz-gomza/Recommender_System_with_Neo4j"> Recommender Chat bot for Netflix Films and Series </a> - This project provides an interactive movie recommendation experience powered by a conversational AI agent. It leverages the capabilities of Neo4j (a graph database), Langchain (a framework for building LLM applications), and Streamlit (for creating the user interface).
+For more detailed information about my background, you can explore:
 
-    <a href="https://youtu.be/HAIaNS-dj-E">YouTube Presentation</a><br>
-    <a href="https://medium.com/@gomza.datascience/building-an-ai-agent-for-movie-recommendations-with-neo4j-and-langchain-part-1-a5ffa101cf1d">Article about app on Medium</a>
+- **📋 [Detailed Projects View](portfolio/PROJECTS.md)** - Comprehensive project descriptions with live demos and deployment links
+- **💼 [Work Experience](portfolio/EXPERIENCE.md)** - Professional background and detailed work history  
+- **📝 [Blog Articles & Publications](portfolio/BLOGS.md)** - Technical articles and Medium publications
+- **🏆 [Certificates & Achievements](portfolio/CERTIFICATES.md)** - Professional certifications and academic achievements
+- **👤 [About Me](portfolio/ABOUT.md)** - Personal background and detailed profile information
 
-* <a href="https://github.com/grzegorz-gomza/Langgraph_Agent"> Custom AI Agentic Chatbot with RAG and Websearch </a> - The main goal of the project was to combine two concepts: a LangGraph Agent with access to the web and a Multimodal RAG Agent capable of reading PDF files, including graphics and tables. The entire project was wrapped in a frontend using Streamlit and deployed. The Agent can provide answers to given questions using the LLM itself, internet research, and a deep understanding of the provided PDF file.
+---
 
-    <a href="https://youtu.be/DuAuMw9S9J0">YouTube Presentation</a>
-    
-* <a href="https://github.com/grzegorz-gomza/Chat_with_PDF"> RAG Chatbot </a> - This project implements a Streamlit application that allows users to chat with multiple PDF documents. It extracts text from uploaded PDFs, processes the text into chunks, and uses OpenAI's model to provide conversational responses based on the document content.
-* <a href="https://github.com/grzegorz-gomza/Chest_Cancer_Classification_MLOps.git"> Chest Cancer Detector </a> - The Chest Cancer Assistant is a sophisticated medical diagnostic tool that leverages artificial intelligence to analyze CT scans of lungs for cancer detection. Built using modern MLOps practices and deep learning techniques, this system employs a fine-tuned CNN architecture to accurately identify and classify three primary types of lung cancer from medical imaging data. This technology aims to assist healthcare professionals by providing an efficient preliminary screening tool for lung cancer diagnosis.
+### My Projects 💻
 
-    <a href="http://56.228.36.7:1988/">Deployed APP</a><br>
-    <a href="https://youtu.be/TW8r8h0-0PY">YouTube Presentation</a>
-    
-* <a href="https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Lego%20recognition"> Lego Brick Classification Project </a> - This project focuses on building a convolutional neural network (CNN) model capable of recognizing individual LEGO bricks from images. Leveraging deep learning techniques, specifically CNNs, the model classifies LEGO bricks into different categories. The project was undertaken as part of a Data Science bootcamp and aims to contribute to applications that require LEGO brick recognition.
-* <a href="https://github.com/grzegorz-gomza/E-mail_Spam_Detection"> E-Mail Spam Detector </a> - NLP machine learning project that detects whether an e-mail is spam. Used Scikit-learn for model development, FastAPI for the backend, Streamlit for the frontend, and Airflow with DAGs for orchestration and automation. The app was containerized using Docker.
-* <a href="https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Concrete%20Punching"> Punching Shear Resistance Prediction </a> - The Punching Shear Resistance Prediction project is designed to leverage machine learning in predicting the punching shear resistance (Pu) for concrete slab-column connections. By analyzing various geometric and material properties, this project provides engineers with a reliable tool to assess structural integrity and prevent potential failures. The machine learning model uses different geometric and material characteristics to enhance the evaluation of structural integrity and help mitigate possible issues.
-* <a href="https://github.com/grzegorz-gomza/Tic_Tac_Toe_C--"> Tic Tac Toe game in C++ </a> - The Tic-Tac-Toe game, available as a C++ implementation, allows two players to compete on a customizable board ranging from 3x3 to 10x10. It features dynamic board sizes, automatic winner detection, draw conditions, and input validation to ensure valid moves while displaying the board clearly after each turn. The game includes functions for board initialization, winner checking, draw detection, and player input, all designed to create an engaging and user-friendly experience for players.
+#### 🤖 AI & Machine Learning
+
+* <a href="https://github.com/grzegorz-gomza/Waste_Classifier">**Waste Classifier - Image classification**</a><br>
+⚙️ *Tech Stack: Python | PyTorch | XGBoost | Scikit-learn Image | FastAPI | MLFlow | DVC | JavaScript | React | Docker* <br>
+  Transfer learning system classifying 30 types of waste from 15,000 images. Compares three CNN architectures (ResNet50, MobileNetV2, EfficientNet-B0) with three classification head complexities (simple, semi-complex, complex), plus two XGBoost baseline models. Interactive frontend to run predictions on sample or custom images, and a metrics dashboard showing training/evaluation results per model. Best result: **92.70% accuracy** (ResNet50 + semi-complex head). Built with PyTorch, config-driven pipeline, modular MLOps architecture.
+  *[Add repo link here]*
+
+* <a href="https://github.com/grzegorz-gomza/Recommender_System_with_Neo4j">**Recommender Chatbot for Netflix**</a><br>
+⚙️ *Tech Stack: Python | LangChain | Neo4j | Streamlit*<br>
+  <p>Conversational movie recommender powered by a LangChain agent with four specialized tools: relationship-based, preference-based, and description-similarity recommendations via Neo4j graph queries, plus a general movie chatbot. The LLM generates Cypher queries from natural language and returns context-aware suggestions.</p>
+  <a href="https://youtu.be/HAIaNS-dj-E">▶  YouTube Video</a> |  <a href="https://medium.com/@gomza.datascience/building-an-ai-agent-for-movie-recommendations-with-neo4j-and-langchain-part-1-a5ffa101cf1d">📝 Medium Article</a>
+
+* <a href="https://github.com/grzegorz-gomza/Langgraph_Agent">**Custom AI Agentic Chatbot with RAG & Websearch**</a><br>
+⚙️ *Tech Stack: Python | LangGraph | Streamlit* <br>
+  <p>Combines a LangGraph agent with live web search and a multimodal RAG pipeline capable of reading PDFs (text, tables, and images). Deployed on Streamlit. Answers questions using the LLM itself, internet research, or deep document understanding.</p>
+  <a href="https://youtu.be/DuAuMw9S9J0">▶  YouTube Video</a>
+
+* <a href="https://github.com/grzegorz-gomza/Chest_Cancer_Classification_MLOps">**Chest Cancer Classifier (MLOps Pipeline)**</a><br>
+⚙️ *Tech Stack: Python | Tensorflow | MLFlow | DVC | Flask | Docker | AWS*<br>
+  MLOps-style image classification system for chest CT scans using a fine-tuned VGG16 CNN with custom classification head. Full pipeline: config-driven training, DVC data versioning, MLflow experiment tracking, Docker containerisation and AWS deployment via GitHub Actions CI/CD. Classifies three types of lung cancer: Adenocarcinoma, Large Cell Carcinoma, and Squamous Cell Carcinoma.
+  <a href="https://youtu.be/TW8r8h0-0PY">▶ YouTube Video</a>
 
 
-#### CodeCademy Projects:
-* [Codecademy_A_B Testing for ShoeFly.com](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_A_B%20Testing%20for%20ShoeFly) - A/B Testing analysis project for ShoeFly.com, focused on testing different variables to optimize website performance and user engagement.  
-* [Codecademy_Airline Analysis](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Airline%20Analysis) - Data analysis project centered on airline industry data to uncover trends and insights.  
-* [Codecademy_Biodiversity](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Biodiversity) - Completed project analyzing biodiversity data to assess species variety and environmental factors.  
-* [Codecademy_Cleaning US Census Data](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Cleaning%20US%20Census%20Data) - Data cleaning project dealing with US Census datasets to prepare for further analysis.  
-* [Codecademy_Exploring Mushrooms](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Exploring%20Mushrooms) - Exploratory data analysis project focused on mushroom characteristics and classifications.  
-* [Codecademy_Hurricane_Analysis](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Hurricane_Analysis) - Analysis of hurricane data to understand patterns and impacts.  
-* [Codecademy_Life-Expectancy-and-GDP-Starter](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Life-Expectancy-and-GDP-Starter) - Project analyzing the relationship between life expectancy and GDP across countries.  
-* [Codecademy_Medical Insurance](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Medical%20Insurance) - Data project exploring medical insurance data for insights into costs and coverage.  
-* [Codecademy_NBA_Trends_Project](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_NBA_Trends_Project) - Analysis of NBA data to identify trends in player and game statistics.  
-* [Codecademy_Product Defects](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Product%20Defects) - Project analyzing product defect data to improve quality control processes.  
-* [Codecademy_PySpark_Training](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_PySpark_Training) - Training and projects using PySpark to handle large-scale data processing.  
-* [Codecademy_Reggie's Linear Regression](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Reggie's%20Linear%20Regression) - Linear regression modeling project to understand relationships in datasets.  
-* [Customer Behaviour on Website](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Customer%20Behaviour%20on%20Website) - Analysis of customer behavior to optimize the website experience.  
-* [Z_Code from daily Training sessions](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Z_Code%20from%20daily%20Training%20sessions) - Daily training sessions focusing on PySpark and other coding exercises.
+* <a href="https://github.com/grzegorz-gomza/Chat_with_PDF">**RAG Chatbot over PDFs**</a><br>
+⚙️ *Tech Stack: Python | OpenAI | Streamlit*<br>
+  Streamlit app that lets users chat with multiple uploaded PDF documents. Text is extracted, chunked, and indexed; OpenAI provides conversational responses grounded in the document content.
 
---- 
+* <a href="https://github.com/grzegorz-gomza/E-mail_Spam_Detection">**E-Mail Spam Detector (NLP + FastAPI + Airflow + Docker)**</a><br>
+⚙️ *Tech Stack: Python | Scikit-learn | NLP | FastAPI | Airflow | Docker*<br>
+  End-to-end NLP pipeline detecting spam emails. scikit-learn model, FastAPI backend, Streamlit frontend, Airflow DAGs for orchestration, fully containerised with Docker.
 
-### :hammer_and_wrench: Languages and Tools
-As a machine-learning engineer, I'm quite proficient with these tools and frameworks:
+* <a href="https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Concrete%20Punching">**Punching Shear Resistance Prediction (Structural ML)**</a><br>
+⚙️ *Tech Stack: Python | Scikit-learn*<br>
+  Machine learning model predicting punching shear resistance (Pu) for concrete slab-column connections from geometric and material properties. Domain knowledge from 10+ years of civil engineering applied to supervised ML — bridges the gap between engineering and AI.
+
+* <a href="https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Lego%20recognition">**Lego Brick Classifier (CNN)**</a><br>
+⚙️ *Tech Stack: Python | Tensorflow | GradCam* <br>
+  CNN model classifying individual LEGO bricks from images using deep learning. Built during a Data Science bootcamp.
+
+---
+
+#### 🌐 Web Development
+
+* <a href="https://mayar.abertay.ac.uk/~2511872/">**mAIniac — AI & IT Social Media Website (PHP + MySQL + Bootstrap 5)**</a><br>
+⚙️ *Tech Stack: HTML | CSS | PHP | JavaScript | MySQL | Bootstrap 5*<br>
+  Full-stack social media platform for AI and tech news, developed during studies at Abertay University. Features user authentication with two permission levels (admin / user), article and comment CRUD with rich-text editor, image management, real-time likes (JavaScript), category-based browsing, user search, and full responsive design with Bootstrap 5. Implements MVC-style architecture, prepared statements against SQL injection, bcrypt password hashing, session management, and WCAG 2.1 AA accessibility compliance.
+
+
+---
+
+#### 🎮 Other
+
+* <a href="https://github.com/grzegorz-gomza/Tic_Tac_Toe_C--">**Tic Tac Toe in C++ (3×3 to 10×10)**</a>
+  C++ implementation with dynamic board sizes, automatic winner detection, draw detection, and input validation.
+
+---
+
+#### 📊 Learning & Practice (Codecademy Portfolio)
+
+<details>
+<summary>Click to expand</summary>
+
+* [A/B Testing for ShoeFly.com](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_A_B%20Testing%20for%20ShoeFly) — A/B testing analysis on website variables
+* [Airline Analysis](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Airline%20Analysis) — Trend analysis on airline industry data
+* [Biodiversity](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Biodiversity) — Species variety and environmental factors
+* [Cleaning US Census Data](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Cleaning%20US%20Census%20Data) — Data cleaning on census datasets
+* [Exploring Mushrooms](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Exploring%20Mushrooms) — EDA on mushroom characteristics
+* [Hurricane Analysis](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Hurricane_Analysis) — Hurricane data patterns and impacts
+* [Life Expectancy & GDP](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Life-Expectancy-and-GDP-Starter) — Cross-country GDP vs life expectancy
+* [Medical Insurance](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Medical%20Insurance) — Insurance cost exploration
+* [NBA Trends](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_NBA_Trends_Project) — Player and game statistics
+* [Product Defects](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Product%20Defects) — Defect data for quality control
+* [PySpark Training](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_PySpark_Training) — Large-scale data processing
+* [Reggie's Linear Regression](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Codecademy_Reggie's%20Linear%20Regression) — Linear regression fundamentals
+* [Customer Behaviour on Website](https://github.com/grzegorz-gomza/Portfolio_Projects/tree/main/Customer%20Behaviour%20on%20Website) — Website behaviour analysis
+
+</details>
+
+---
+
+### 🛠️ Languages and Tools
 
 #### Programming Languages
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 #### Main Skills & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-plain.svg" title="PostgresSQL" alt="PostgresSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/fff0c8a2-efd7-4187-8c7c-91eb9f9c4355" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/1df6f114-3051-40e0-a401-5ae043e7ac31" title="Numpy" alt="Numpy" width=40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/1df6f114-3051-40e0-a401-5ae043e7ac31" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/a8d54b41-6a55-460a-b53f-2c78ae344431" title="Seaborn" alt="Seaborn" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/a6167cbf-7cab-47d4-ac33-80ec00ef7369" title="Plotly" alt="Plotly" height="40"/>&nbsp;
-
 </div>
 
 ---
 
 #### AI Skills
 <div>
-    <table>
-        <tr>
-            <th colspan="3"> Machine Learning</th>
-            <th colspan="3"> Deep Learning </th>
-            <th colspan="5"> Gen AI </th>
-        </tr>
-        <tr>
-          <td><img src="https://github.com/user-attachments/assets/ac2249b8-13df-442c-80e9-13dbdb21a545" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;</td>
-          <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQb_6N-2J8mVZhy0b5Hwr1qVS7g0jU115ow&s" title="XGBoost" alt="XGBoost" width="40" height="40"/>&nbsp;</td>
-          <td><img src="https://github.com/user-attachments/assets/b0a4b665-c090-4d85-b7d8-d9786d4d308e" title="Rapids" alt="Rapids" height="40"/>&nbsp;</td>
-          <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;</td>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;</td>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;</td>
-          <td><img src="https://github.com/user-attachments/assets/e3f1b30c-d508-4b5d-81a5-4973d16cf1d1" title="LangChain" alt="LangChain" height="40"/>&nbsp;</td>
-          <td><img src="https://github.com/user-attachments/assets/64c308b5-2f49-4ee0-aff9-32db36fc91eb" title="LangGraph" alt="LangGraph" height="40"/>&nbsp;</td>
-          <td><img src="https://github.com/user-attachments/assets/80233f20-c06a-4443-a83e-7d80401cd414"  title="CrewAI" alt="CrewAI" height="40"/>&nbsp;</td>
-          <td><img src="https://github.com/user-attachments/assets/d2d7aa1c-5192-40f5-8311-1e8b6f5205a1" title="OpenAI" alt="OpenAI" height="40"/>&nbsp;</td>
-          <td><img src="https://github.com/user-attachments/assets/5f2afb0f-47d4-414d-b571-b403b0611ebd" title="Hugginface" alt="Huggingface" height="40"/>&nbsp;</td>
-        </tr>
-    </table>
+  <table>
+    <tr>
+      <th colspan="3">Machine Learning</th>
+      <th colspan="3">Deep Learning</th>
+      <th colspan="5">Gen AI</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/ac2249b8-13df-442c-80e9-13dbdb21a545" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQb_6N-2J8mVZhy0b5Hwr1qVS7g0jU115ow&s" title="XGBoost" alt="XGBoost" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/user-attachments/assets/b0a4b665-c090-4d85-b7d8-d9786d4d308e" title="Rapids" alt="Rapids" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/user-attachments/assets/e3f1b30c-d508-4b5d-81a5-4973d16cf1d1" title="LangChain" alt="LangChain" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/user-attachments/assets/64c308b5-2f49-4ee0-aff9-32db36fc91eb" title="LangGraph" alt="LangGraph" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/user-attachments/assets/80233f20-c06a-4443-a83e-7d80401cd414" title="CrewAI" alt="CrewAI" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/user-attachments/assets/d2d7aa1c-5192-40f5-8311-1e8b6f5205a1" title="OpenAI" alt="OpenAI" height="40"/>&nbsp;</td>
+      <td><img src="https://github.com/user-attachments/assets/5f2afb0f-47d4-414d-b571-b403b0611ebd" title="Huggingface" alt="Huggingface" height="40"/>&nbsp;</td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-#### Front-End Developement
+#### Front-End Development
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/dcbc504c-722a-4fdc-aafe-704f144596a5" title="Streamlit" alt="Streamlit" height="40"/>&nbsp;
 </div>
 
 ---
 
-#### Back-End & API Developement
-<img src="https://github.com/user-attachments/assets/c148999a-4e6f-423b-8389-2c1e18308bff" title="Flask" alt="Flask" height="40"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/99f07b07-93cf-456a-b295-7cf4108c031d" title="nodejs" alt="nodejs" height="40"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/64c60990-c4f7-407b-b49c-50c0a87891c8" title="express" alt="express" height="40"/>&nbsp;
-
+#### Back-End & API Development
+<div>
+  <img src="https://github.com/user-attachments/assets/c148999a-4e6f-423b-8389-2c1e18308bff" title="Flask" alt="Flask" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/99f07b07-93cf-456a-b295-7cf4108c031d" title="Node.js" alt="Node.js" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/64c60990-c4f7-407b-b49c-50c0a87891c8" title="Express" alt="Express" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 
 #### Data Engineering & Cloud Solutions
 <div>
-  <img src="https://github.com/user-attachments/assets/d40481a8-0569-4cf0-945a-0a28fb59c5b4" title="neo4j" alt="neo4j" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/d40481a8-0569-4cf0-945a-0a28fb59c5b4" title="Neo4j" alt="Neo4j" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/e1cc1c77-637e-4342-8ca4-63aae4bef9ac" title="MongoDB" alt="MongoDB" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/9038d970-f6c5-496e-87fe-9093dd706629" title="PySpark" alt="PySpark" height="40"/>&nbsp;
-
 </div>
 
 ---
 
-#### Software Development
+#### Software Development & MLOps
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -151,8 +204,6 @@ As a machine-learning engineer, I'm quite proficient with these tools and framew
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grzegorz-gomza/grzegorz-gomza/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/grzegorz-gomza/grzegorz-gomza/output/github-contribution-grid-snake.svg" />
 </picture>
-
-###
 
 ---
 
