@@ -17,6 +17,8 @@ And if all of that isn't enough to convince you that I'm a dedicated tech nerd..
 
 Let's chat about what you need and how we can make tech work for you!
 
+![IMG_5095a.JPG](../assets/images/IMG_5095a.JPG)
+
 ---
 
 ## Education
