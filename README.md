@@ -1,4 +1,4 @@
-###wello there 👋
+### Hello there 👋
 
 🎯 **AI / ML Engineer | LLM & RAG | MLOps | ex‑Civil Engineer (10+ yrs)**
 
