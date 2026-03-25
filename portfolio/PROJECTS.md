@@ -35,7 +35,7 @@ MLOps-style image classification system for chest CT scans using a fine-tuned VG
 ---
 
 ### Waste Classifier — 30 Classes (ResNet50 / MobileNetV2 / EfficientNet-B0 + XGBoost)
-**[GitHub Repo](https://github.com/grzegorz-gomza/waste-classifier)**
+**[GitHub Repo](https://github.com/grzegorz-gomza/waste-classifier)**&nbsp;|&nbsp; **[▶ YouTube](https://www.youtube.com/watch?v=Pjf7VAi0OBw)**
 
 Transfer learning system classifying **30 types of waste** from 15,000 images. Compares three CNN architectures × three classification head complexities (9 CNN configurations), plus two XGBoost baseline models — **11 models total**. 
 
@@ -84,7 +84,7 @@ CNN model classifying individual LEGO bricks from images. Built during a Data Sc
 ## 🌐 Web Development
 
 ### mAIniac — AI & IT Social Media Website
-**[GitHub Repo](https://github.com/grzegorz-gomza/mainiac-web-dev)**
+**[GitHub Repo](https://github.com/grzegorz-gomza/mainiac-web-dev)**&nbsp;|&nbsp; **[▶ YouTube](https://www.youtube.com/watch?v=Pjf7VAi0OBw)**
 
 Full-stack social media platform for AI and tech news.
 
